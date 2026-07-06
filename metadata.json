@@ -1,0 +1,6 @@
+{
+  "name": "KREATIVE",
+  "description": "Skapa sidor, presentationer och dokument. Uppgradera till Office Pack eller Organization Pack för full åtkomst.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
